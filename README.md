@@ -7,6 +7,15 @@ I am MEng Student @Paris-Saclay University (CentraleSupélec) and Full-Stack Dev
 1. Collaborated in a team of 4 to develop an iOS app using CoreML, ONNX, and Xcode, to enhance the daily lives of visually impaired users with embedded AI technologies.
 
 
+
+
+https://github.com/user-attachments/assets/2d5026b9-9843-444d-94b5-44a3a2d298f7
+
+
+https://github.com/user-attachments/assets/cbd0c521-4b8e-4440-a343-5a2f34156592
+
+
+
 2. Developing a prototype for virtual set exploration that enables production teams to navigate and experience immersive virtual Unreal Engine sets through their smartphones using Augmented Reality and Gaussian Splatting.
 
 
