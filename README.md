@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am MEng Student @Paris-Saclay University (CentraleSupélec) and Full-Stack Developer @ParisDigitalLab.
+
 <!--
 **guillaum12/guillaum12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
