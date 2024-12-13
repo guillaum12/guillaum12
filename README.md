@@ -17,8 +17,10 @@ https://github.com/user-attachments/assets/cbd0c521-4b8e-4440-a343-5a2f34156592
 
 
 2. Developing a prototype for virtual set exploration that enables production teams to navigate and experience immersive virtual Unreal Engine sets through their smartphones using Augmented Reality and Gaussian Splatting.
+🛠️ React, TypeScript, Three.js, 3D - Gaussian Splatting
 
 
+https://f24-p2-gaussians.paris-digital-lab.fr/
 
 
 <!--
